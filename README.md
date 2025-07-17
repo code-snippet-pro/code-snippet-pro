@@ -4,30 +4,7 @@
   </a>
 
    <a href="https://setupshowroom.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://api.setupshowroom.com/public/card/user/01JR2NW5T24BQKPBEJ9D1MZZ4G/sys-card?type=room"/>
-  </a>
-
-   <a href="https://setupshowroom.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://api.setupshowroom.com/public/card/user/01JR2NW5T24BQKPBEJ9D1MZZ4G/sys-card?type=workspace"/>
-  </a>
-
-   <a href="https://setupshowroom.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://api.setupshowroom.com/public/card/user/01JR2NW5T24BQKPBEJ9D1MZZ4G/sys-card?type=rgb"/>
-  </a>
-
-   <a href="https://setupshowroom.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://api.setupshowroom.com/public/card/user/01JR2NW5T24BQKPBEJ9D1MZZ4G/sys-card?type=minimalist"/>
-  </a>
-
-   <a href="https://setupshowroom.com" target="_blank" rel="noopener noreferrer">
     <img src="https://api.setupshowroom.com/public/card/user/01JR2NW5T24BQKPBEJ9D1MZZ4G/sys-card?type=development"/>
   </a>
 
-   <a href="https://setupshowroom.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://api.setupshowroom.com/public/card/user/01JR2NW5T24BQKPBEJ9D1MZZ4G/sys-card?type=productivity"/>
-  </a>
-
-   <a href="https://setupshowroom.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://api.setupshowroom.com/public/card/user/01JR2NW5T24BQKPBEJ9D1MZZ4G/sys-card?type=pc"/>
-  </a>
 </p>
